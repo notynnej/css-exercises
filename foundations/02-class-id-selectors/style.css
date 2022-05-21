@@ -1,0 +1,31 @@
+p {
+   background-color: #ffd0d0;
+   font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.no3 {
+    font-size: 24px;
+}
+
+#no2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#no4 {
+    background-color: #a0f1a0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Would be better to do the following:
+
+<p class="class1">Number 1 - I'm a class!</p?
+...
+<p class="class1 no3">Number 3 - I'm a class!</p>
+...
+<p class="class1">Number 5 - I'm a class!</p?
+
+Without "class1", all <p> would have applied colours
+
+*/

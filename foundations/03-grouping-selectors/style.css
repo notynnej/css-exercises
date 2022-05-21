@@ -1,0 +1,13 @@
+.no1.no2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.no1 {
+    background-color: #000;
+    color: #fff;
+}
+
+.no2 {
+    background-color: #ffff00;
+}
